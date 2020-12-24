@@ -1,2 +1,31 @@
-# RayCrack
-Cracker Pro By RayhanGanz
+## RayCrack (Crack For Facebook)
+
+## cara pakai 
+- pkg update && pkg upgrade
+- pkg install python2
+- pip2 install requests
+- pip2 install mechanize
+- pkg install git
+- git clone https://github.com/RayhanZ75/RayCrack
+- cd Cracks
+- python2 RayCrack.py
+
+### Dibaca!!
+
+- Jika akun anda terkena checkpoint author tidak bertanggung jawab karna tools ini tidak menggunakan login token
+- Terimakasih telah menggunakan tools ini
+
+
+## Author : Rayhan Ganz
+
+## WhatsApp
+- https://wa.me/6285260979370
+
+
+## Facebook
+- https://www.facebook/RayhanGanzRGZ
+
+
+## Github
+- https://github.com/RayhanZ75
+```
